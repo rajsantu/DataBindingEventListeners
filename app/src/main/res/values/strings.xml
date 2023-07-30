@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBindingEventListeners</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="bye_bye">Bye Bye</string>
+</resources>
